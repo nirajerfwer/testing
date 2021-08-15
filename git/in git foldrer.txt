@@ -1,1 +1,11 @@
-in ths git
+step1 : create new directory and copy url
+step2: create directory which you want to add to github
+step3: go to "git bash"(you have to download) and go to directory which you want to add to github by command cd "path"
+setp5 : start with "git init" command in git bash
+setp6 : type "git status" to get status of your git
+setp : let's add data and new file 
+setp7 : to add all file type "git add 'path'" here i am using "." to represent all directorys
+setp8 : before any thing just save what you have done, type "git commit -m "comment"" to save
+setp9 : to make connection between github and git , type "git remote add origin 'url'"
+setp10 : to add all data to your repo type "git push origin master" this will add all data to url(github)
+setp11 : to see changes go to your reposetory and represh it.
